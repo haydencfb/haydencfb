@@ -1,8 +1,21 @@
 # Hi there! My name is Hayden Fitzpatrick-Brintle!
 
-### I am a 22 software dev. student, as well as a bartender/server at a local winery. I am also a photographer/videographer as well as a personal trainer!
+### I am a Fullstack Web Developer with a focus in React development!
 
-- 🔭 I’m currently working on developing a Personal Portfolio, as well as using Spotify's open API!
-- 🌱 I’m currently learning React!
+## A little about myself...
+
+- 🍷 I am a Server at the Rancho Capistrano Winery!
+- 🏋🏽 I am a double-certified personal trainer!
+- 🎂 I am 22 years old!
+
+## What am I currently doing?
+
+- 🔭 I’m currently working on developing my Personal Portfolio, as well as looking for work!
+- 🌱 I’m currently working in React!
+
+## Want to connect?
+
 - ⚡ How to reach me: The best way to reach out to me is through Linkedin, Github, or my linked email!
+- Here is my LinkedIn: www.linkedin.com/in/haydencfb
+  
 
