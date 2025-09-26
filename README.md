@@ -6,7 +6,7 @@
 
 - 🍷 I am a Server at the Rancho Capistrano Winery!
 - 🏋🏽 I am a double-certified personal trainer!
-- 🎂 I am 22 years old!
+- 🎂 I am 23 years old!
 
 ## What am I currently doing?
 
