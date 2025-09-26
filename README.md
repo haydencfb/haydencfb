@@ -5,6 +5,7 @@
 ## A little about myself...
 
 - 🍷 I am a Server at the Rancho Capistrano Winery!
+- 📘 I am working for Service Sales @ SAP
 - 🏋🏽 I am a double-certified personal trainer!
 - 🎂 I am 23 years old!
 
